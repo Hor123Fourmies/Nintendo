@@ -1,0 +1,97 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    border: 1px solid lightgray;
+}
+
+#BandeBlanche{
+    border: none;
+    background: white;
+}
+
+#ListeBlanche{
+    margin-right: 120px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#Search{
+    border: none
+}
+
+#ChangeRegion{
+    border:none
+}
+
+#LogIn{
+    background: red;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+img {
+    position: absolute;
+    z-index: 4;
+    width: 180px;
+    height: 100px;
+    margin-left: 60px;
+    border-bottom-left-radius:1em ;
+    border-bottom-right-radius: 1em;
+}
+
+img:hover{
+    height: 120px;
+}
+
+#BandeGrise{
+    height: 25px;
+    line-height: 25px;
+    background-image: linear-gradient(#e6e6e6, lightgray);
+}
+
+ul{
+    margin-top: 0px;
+}
+
+ul li{
+    display: inline-block;
+    font-family: "Segoe UI";
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+#un:hover{
+    background: white;
+}
+
+#deux:hover{
+    background: darkred;
+    color:white;
+}
+
+#trois:hover{
+    background: orangered;
+}
+
+#quatre:hover{
+    background: white;
+}
+
+#cinq:hover{
+    background: indianred;
+}
+
+#six:hover{
+    background: dodgerblue;
+}
+
+#sept:hover{
+    background: white;
+}
